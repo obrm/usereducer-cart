@@ -1,6 +1,12 @@
 # useReducer Shopping Cart
 
-React shopping cart component with useContext & useReducer.
-Built as part of a [React course](https://www.udemy.com/course/react-tutorial-and-projects-course).
+## [Live site preview.](https://obrm-usereducer-cart.netlify.app)
 
-[Visit project site](https://obrm-usereducer-cart.netlify.app)
+#### React Course
+
+[Taken from John Smilga's React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+
+
+#### Support John Smilga
+
+Find the App Useful? [You can always buy him a coffee](https://www.buymeacoffee.com/johnsmilga)
